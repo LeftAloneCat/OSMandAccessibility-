@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/build" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-legacy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-legacy/externals/gdal/upstream.original" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-legacy/externals/gdal/upstream.patched" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-legacy/externals/proj/upstream.original" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-legacy/externals/proj/upstream.patched" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-legacy/externals/skia/upstream.original" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-legacy/externals/skia/upstream.patched" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-legacy/externals/skia/upstream.patched/buildtools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-legacy/externals/skia/upstream.patched/common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-legacy/externals/skia/upstream.patched/third_party/externals/angle2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-legacy/externals/skia/upstream.patched/third_party/externals/dng_sdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-legacy/externals/skia/upstream.patched/third_party/externals/egl-registry" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-legacy/externals/skia/upstream.patched/third_party/externals/expat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-legacy/externals/skia/upstream.patched/third_party/externals/freetype" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-legacy/externals/skia/upstream.patched/third_party/externals/harfbuzz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-legacy/externals/skia/upstream.patched/third_party/externals/icu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-legacy/externals/skia/upstream.patched/third_party/externals/imgui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-legacy/externals/skia/upstream.patched/third_party/externals/libgifcodec" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-legacy/externals/skia/upstream.patched/third_party/externals/libjpeg-turbo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-legacy/externals/skia/upstream.patched/third_party/externals/libpng" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-legacy/externals/skia/upstream.patched/third_party/externals/libwebp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-legacy/externals/skia/upstream.patched/third_party/externals/lua" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-legacy/externals/skia/upstream.patched/third_party/externals/opencl-lib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-legacy/externals/skia/upstream.patched/third_party/externals/opencl-registry" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-legacy/externals/skia/upstream.patched/third_party/externals/opengl-registry" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-legacy/externals/skia/upstream.patched/third_party/externals/piex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-legacy/externals/skia/upstream.patched/third_party/externals/sdl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-legacy/externals/skia/upstream.patched/third_party/externals/sfntly" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-legacy/externals/skia/upstream.patched/third_party/externals/spirv-cross" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-legacy/externals/skia/upstream.patched/third_party/externals/spirv-headers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-legacy/externals/skia/upstream.patched/third_party/externals/spirv-tools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-legacy/externals/skia/upstream.patched/third_party/externals/wuffs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-legacy/externals/skia/upstream.patched/third_party/externals/zlib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/resources" vcs="Git" />
+  </component>
+</project>
